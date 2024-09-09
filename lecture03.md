@@ -1,34 +1,34 @@
 # 第3回課題提出
 
 ## webブラウザでの接続確認
-(./image/Editing fruit.jpg)
-(./image/Listing fuits.jpg)
-(./image/New fruit.jpg)
-(./image/Listing fuits(2).jpg)
+(image/Editing fruit.jpg)
+(image/Listing fuits.jpg)
+(image/New fruit.jpg)
+(image/Listing fuits(2).jpg)
 
 ## 1.APサーバーについて調べる
 
 ### ・APサーバーの名前とバージョンの確認
 -APサーバーの名前：Puma
 -バージョン：6.4.2
-(/image/puma version.jpg)
+(image/puma version.jpg)
 
 ### ・APサーバーを終了させた場合、引き続きアクセスできるか？
 -APサーバーを終了させた場合は、APサーバーにアクセスできません。
-(./image/AP_stop.jpg)
-(./image/AP_akusesu.jpg)
+(image/AP_stop.jpg)
+(image/AP_akusesu.jpg)
 
 ## 2.DBサーバーについて調べる
 
 ### ・DBサーバーの名前とバージョンの確認
 -DBサーバーの名前：MySQL
 -DBサーバーのバージョン：8.4.2
-(./image/MySQL version.jpg)
+(image/MySQL version.jpg)
 
 ### ・DBサーバーを終了させた場合、引き続きアクセスできるか？
 -DBサーバーを終了させた場合は、エラーメッセージが表示されアクセスできません。
-(./image/DB_stop.jpg)
-(./image/DB_akusesu.jpg)
+(image/DB_stop.jpg)
+(image/DB_akusesu.jpg)
 
 ### ・Railsの構成管理ツールの名前は何か？
 -Bundler
