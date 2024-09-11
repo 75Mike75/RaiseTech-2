@@ -1,17 +1,17 @@
 # 第3回課題提出
 
 ## webブラウザでの接続確認
-![E fruit](image/Editing fruit.jpg)
-![L fruit](image/Listing fuits.jpg)
-![N fruit](image/New fruit.jpg)
-![L fruit(2)](image/Listing fuits(2).jpg)
+![E fruit](image/Editing_fruit.jpg)
+![L fruit](image/Listing_fuits.jpg)
+![N fruit](image/New_fruit.jpg)
+![L fruit(2)](image/Listing_fuits(2).jpg)
 
 ## 1.APサーバーについて調べる
 
 ### ・APサーバーの名前とバージョンの確認
 -APサーバーの名前：Puma
 -バージョン：6.4.2
-![APサーバー](image/puma version.jpg)
+![APサーバー](image/puma_version.jpg)
 
 ### ・APサーバーを終了させた場合、引き続きアクセスできるか？
 -APサーバーを終了させた場合は、APサーバーにアクセスできません。
@@ -23,7 +23,7 @@
 ### ・DBサーバーの名前とバージョンの確認
 -DBサーバーの名前：MySQL
 -DBサーバーのバージョン：8.4.2
-![DBサーバー](image/MySQL version.jpg)
+![DBサーバー](image/MySQL_version.jpg)
 
 ### ・DBサーバーを終了させた場合、引き続きアクセスできるか？
 -DBサーバーを終了させた場合は、エラーメッセージが表示されアクセスできません。
