@@ -1,34 +1,34 @@
 # 第3回課題提出
 
 ## webブラウザでの接続確認
-(image/Editing fruit.jpg)
-(image/Listing fuits.jpg)
-(image/New fruit.jpg)
-(image/Listing fuits(2).jpg)
+![E fruit](image/Editing fruit.jpg)
+![L fruit](image/Listing fuits.jpg)
+![N fruit](image/New fruit.jpg)
+![L fruit(2)](image/Listing fuits(2).jpg)
 
 ## 1.APサーバーについて調べる
 
 ### ・APサーバーの名前とバージョンの確認
 -APサーバーの名前：Puma
 -バージョン：6.4.2
-(image/puma version.jpg)
+![APサーバー](image/puma version.jpg)
 
 ### ・APサーバーを終了させた場合、引き続きアクセスできるか？
 -APサーバーを終了させた場合は、APサーバーにアクセスできません。
-(image/AP_stop.jpg)
-(image/AP_akusesu.jpg)
+![AP停止](image/AP_stop.jpg)
+![APアクセス](image/AP_akusesu.jpg)
 
 ## 2.DBサーバーについて調べる
 
 ### ・DBサーバーの名前とバージョンの確認
 -DBサーバーの名前：MySQL
 -DBサーバーのバージョン：8.4.2
-(image/MySQL version.jpg)
+![DBサーバー](image/MySQL version.jpg)
 
 ### ・DBサーバーを終了させた場合、引き続きアクセスできるか？
 -DBサーバーを終了させた場合は、エラーメッセージが表示されアクセスできません。
-(image/DB_stop.jpg)
-(image/DB_akusesu.jpg)
+![DB停止](image/DB_stop.jpg)
+![DBアクセス](image/DB_akusesu.jpg)
 
 ### ・Railsの構成管理ツールの名前は何か？
 -Bundler
@@ -42,7 +42,7 @@
  前回の課題提出から間が空いてしまい、GitHubの使い方を忘れていた部分があった為
 再度復習したので、今回の課題作成以上に時間を費やしました。
 
-その結果、課題作成に3週間強とかなりの時間をかけてしまいました。
+その結果、課題作成に1ヵ月とかなりの時間をかけてしまいました。
 仕事の場合は納期があり、今回のようにはいかないと思いますので
 調べ方や課題の進め方など工夫をして、行き詰まった場合は質問することも大事だと思いました。
 
